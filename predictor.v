@@ -1,4 +1,3 @@
-
 module predictor(
    input wire request,      // Request to make prediction   
    input wire clk,          // Clock signal
